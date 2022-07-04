@@ -1,0 +1,12 @@
+C:\Users\percy\source\repos\DEFINITIVO O ME MUERO\lab 13\DOMAIN\bin\Debug\DOMAIN.dll
+C:\Users\percy\source\repos\DEFINITIVO O ME MUERO\lab 13\DOMAIN\bin\Debug\DOMAIN.pdb
+C:\Users\percy\source\repos\DEFINITIVO O ME MUERO\lab 13\DOMAIN\obj\Debug\DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\percy\source\repos\DEFINITIVO O ME MUERO\lab 13\DOMAIN\obj\Debug\DOMAIN.dll
+C:\Users\percy\source\repos\DEFINITIVO O ME MUERO\lab 13\DOMAIN\obj\Debug\DOMAIN.pdb
+C:\Users\percy\source\repos\DEFINITIVO O ME MUERO\lab 13\DOMAIN\bin\Debug\DOMAIN.dll.config
+C:\Users\percy\source\repos\DEFINITIVO O ME MUERO\lab 13\DOMAIN\bin\Debug\EntityFramework.dll
+C:\Users\percy\source\repos\DEFINITIVO O ME MUERO\lab 13\DOMAIN\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\percy\source\repos\DEFINITIVO O ME MUERO\lab 13\DOMAIN\bin\Debug\EntityFramework.xml
+C:\Users\percy\source\repos\DEFINITIVO O ME MUERO\lab 13\DOMAIN\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\percy\source\repos\DEFINITIVO O ME MUERO\lab 13\DOMAIN\obj\Debug\DOMAIN.csproj.AssemblyReference.cache
+C:\Users\percy\source\repos\DEFINITIVO O ME MUERO\lab 13\DOMAIN\obj\Debug\DOMAIN.csproj.CopyComplete
